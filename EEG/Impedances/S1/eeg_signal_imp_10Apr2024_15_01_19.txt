@@ -1,0 +1,11 @@
+Channel Value[KOhm]
+GND 11 	
+REF 30 	
+AFz 17 	
+AF3 25 	
+AF4 38 	
+AF7 16 	
+AF8 46 	
+Pz 36 	
+P3 17 	
+P4 23 	
